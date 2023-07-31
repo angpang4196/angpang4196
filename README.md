@@ -43,7 +43,7 @@
 	<p>🎨 SNS Portfolio 🎨</p>
 </div>
 <div align=center>
-	<a href="angpang4196@gmail.com">
+	<a href="mailto:angpang4196@gmail.com">
 		<img src="https://img.shields.io/badge/Mail-30B980?style=for-the-badge&logo=Gmail&logoColor=white" />
 	</a>
 	<a href="https://scarce-avocado-b02.notion.site/a662f0aef7f749b4aba146e1fe64bc75">
